@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GSKotlin</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="inserir">inserir</string>
+    <string name="estadoo">Estado</string>
+    <string name="cidadee">Cidade</string>
+    <string name="nome_da_praia">Nome da Praia</string>
+    <string name="inserir_praia">inserir</string>
+    <string name="nome_do_produto">Nome do produto</string>
+    <string name="Cidade" />
+    <string name="Estado" />
+    <string name="Praia" />
+    <string name="praia_cidade_estado">Praia, Cidade, Estado</string>
+    <string name="praia">praia</string>
+</resources>
